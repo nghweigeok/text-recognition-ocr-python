@@ -1,3 +1,3 @@
 # text-recognition-ocr-python
 
-A tutorial supplement of the article "Optical Character Recognition (OCR) with OpenCV and EasyOCR in Python".
+A tutorial supplement of the article "How to Extract Text from Images (OCR) in Python using OpenCV and EasyOCR".
